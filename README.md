@@ -1,7 +1,7 @@
 # 🌡️ Extreme Heat Events in France: Predictive Modeling
 **An Early Warning System for Dangerous Heat Conditions (1990–2025)**
 
-![Python Version](https://img.shields.io/badge/python-3.10.19-blue.svg) [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://extremeheatevents-france.streamlit.app)
+![Python Version](https://img.shields.io/badge/python-3.10.19-blue.svg) [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://extreme-heat-events.streamlit.app/)
 
 ## 🎯 Research Question
 **When are people exposed to dangerous heat conditions in France?**
@@ -15,7 +15,7 @@ The objective of this project is to build a predictive that serves as an early h
 ## 🚀 Interactive Web App
 Explore our models and climate analysis in the live Streamlit application.
 
-🔗 **[Live Demo: Extreme Heat Events App](https://extremeheatevents-france.streamlit.app)**
+🔗 **[Live Demo: Extreme Heat Events App](https://extreme-heat-events.streamlit.app/)**
 
 ### Suggested Walkthrough
 1. **Introduction & Motivation:** Context on global warming trends in France, including raw data analysis and visualizations of the increasing frequency of heatwaves.
