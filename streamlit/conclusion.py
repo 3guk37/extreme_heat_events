@@ -427,7 +427,7 @@ def show_page():
       <p>Interested in the methodology, data, or a collaboration? Feel free to reach out to the team.</p>
       <div class="badges">
         <a class="badge" href="mailto:eduard.belsch.hamburg@gmail.com">📧 Contact us</a>
-        <a class="badge" href="https://github.com/VirtuallyCertain/extreme_heat" target="_blank">🔗 GitHub</a>
+        <a class="badge" href="https://github.com/3guk37/extreme_heat_events" target="_blank">🔗 GitHub</a>
       </div>
     </div>
     <div class="footer">
